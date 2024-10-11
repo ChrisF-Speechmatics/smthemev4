@@ -13,8 +13,10 @@ const AccExample = () => (
             <Accordion.Label>How do you start gardening?</Accordion.Label>
           </Accordion.Header>
           <Accordion.Panel>
+            <div contentEditable>
             Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth
             water spinach avocado daikon napa cabbage asparagus winter purslane kale.
+            </div>
           </Accordion.Panel>
         </Accordion.Section>
         <Accordion.Section>
